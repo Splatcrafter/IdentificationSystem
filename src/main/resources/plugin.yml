@@ -1,0 +1,11 @@
+name: Identificationsystem
+version: '${project.version}'
+main: de.splatgames.identification.identificationsystem.IdentificationSystem
+authors: [ Splatcrafter ]
+description: System für die Identifikation von Spielern auf dem Server
+website: https://Splatgames.de/
+commands:
+  ID:
+    description: get your id
+  OnlinePlayers:
+    description: get all players with id form online players
