@@ -4,7 +4,7 @@ Identification System is a Minecraft-Spigot Plugin for identifying players with 
 
 ## Installation
 
-Drag and Drop the .Jar file (Included in the .zip) into your Spigot-Plugins folder (./plugins) and start your server!
+Drag and Drop the .jar file (Included in the .zip) into your Spigot-Plugins folder (./plugins) and start your server!
 
 ## API-Usage
 
