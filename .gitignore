@@ -181,3 +181,4 @@ $RECYCLE.BIN/
 !libs/LogSystem.jar
 !libs/Rank-Spigot.jar
 !libs/spigot.jar
+*.xml
